@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @factorj
+- 👋 Hi, I’m Marcelo Guedes - @factorj
 - 👀 I’m interested in Software Architeture and Process Improvements
 - 🌱 I’m currently learning a lot of new things
 - 💞️ I’m looking to collaborate on projects to implement products and processes improvements, systems development or digital marketing, 
